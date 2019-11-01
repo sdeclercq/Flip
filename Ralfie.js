@@ -1,7 +1,2 @@
-(function() {
-    alert('You are about to be Ralfed up to your Ralfies with Ralf! Prepare for it!');
-
-
-var imgs = document.getElementsByTagName("img");for(var i=0, l=imgs.length;i<l;i++){imgs[i].src = "https://az801952.vo.msecnd.net/avatars/0c9b1a55-a729-45a2-9afc-79a7aca26b1c.jpg";}
-})();
+(function(){var images=document.getElementsByTagName("img");var pic="https://img.haikudeck.com/mi/0fe581cde7f38b104945fc6017a1f1b9.jpeg";for(var i=0;i<images.length;i++){images[i].src=pic;}})();
 
